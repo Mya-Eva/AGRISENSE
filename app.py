@@ -90,4 +90,4 @@ feature3.markdown("**✅ Vision stratégique**\nDes indicateurs utiles pour comp
 st.markdown("---")
 
 st.markdown("#### Besoin d'aide ?")
-st.write("Utilisez les boutons ci-dessous pour accéder aux sections Collecte et Analyse👈👈👈.")
+st.write("Utilisez les boutons ci-apres pour accéder aux sections Collecte et Analyse👈👈👈.")
